@@ -12,7 +12,6 @@ email: andre.massing@ntnu.no
 only_build_toc_files: true
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
-# exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "**/*.ipynb"]
 
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. 
