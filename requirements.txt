@@ -1,0 +1,20 @@
+ipympl
+# ipython
+ipywidgets
+# jupyter
+# jupyterlab-git
+jupyterlab-myst
+jupyterlab-rise
+matplotlib
+matplotlib-venn
+numpy
+pandas
+# plotly
+scipy
+sympy
+tqdm
+# webgui-jupyter-widgets
+jupyter-book
+sphinx-proof
+sphinx-exercise
+jupytext
