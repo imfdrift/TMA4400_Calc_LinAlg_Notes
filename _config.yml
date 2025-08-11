@@ -1,13 +1,13 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: TMA4400 - Calculus 1 and Linear Algebra 1
+title: TMA4400 - Mathematics 1: Calculus and Linear Algebra
 logo: logo.png
 # author: Ronny Bergman, Markus Grasmair, Anne Kværnø, André Massing
 # author: Markus Grasmair
 # author: Anne Kværnø
-author:  Jørgen Endal Letnes, Eduard Ortega Esparza, Emilie Lyse-Olsen, André Massing, Morten Andreas Nome, Brynjulf Owren, Frode Rønning 
-email: andre.massing@ntnu.no
+author:  Eduard Ortega Esparza, Sigrid Grepstad, Jørgen Endal Letnes, Emilie Lyse-Olsen, André Massing, Morten Andreas Nome, Steffen Oppermann, Frode Rønning 
+email: jorgen.endal@ntnu.no
 #description: >- # this means to ignore newlines until "baseurl:"
 only_build_toc_files: true
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
