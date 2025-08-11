@@ -1,6 +1,6 @@
 # TMA4400
 
-This book repository contains the notes for the course TMA4400 - Calculus and Linear Algebra
+This book repository contains the notes for the course TMA4400 - Mathematics 1: Calculus and Linear Algebra
 at NTNU. The notes are written in Jupyter notebooks and Myst markdown and are built using Jupyter Book.
 
 The Jupyter notebooks are also meant to be used interactively either during classes
