@@ -8,6 +8,7 @@ logo: logo.png
 # author: Anne Kværnø
 author:  Eduard Ortega Esparza, Sigrid Grepstad, Jørgen Endal Letnes, Emilie Lyse-Olsen, André Massing, Morten Andreas Nome, Steffen Oppermann, Frode Rønning 
 email: jorgen.endal@ntnu.no
+copyright: "2025"
 #description: >- # this means to ignore newlines until "baseurl:"
 only_build_toc_files: true
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
