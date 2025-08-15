@@ -1,11 +1,8 @@
 # TMA4400
 
-This book repository contains the notes for the course TMA4400 - Mathematics 1: Calculus and Linear Algebra
-at NTNU. The notes are written in Jupyter notebooks and Myst markdown and are built using Jupyter Book.
+Denne boksamlingen inneholder notatene som brukes i emnet TMA4400 - Matematikk 1: Kalkulus og lineær algebra ved NTNU. Notatene er skrevet i Jupyter notebooks og Myst markdown og de er bygget opp ved hjelp av Jupyter book.
 
-The Jupyter notebooks are also meant to be used interactively either during classes
-and outside of classes. To make sure that the notebooks are displayed correctly and work as expected, you need to have the following Python modules installed in your 
-Python environment:
+Jupyter notebook-ene er ment til bruk i selve forelesningene eller når du måtte ønske det. For å være sikker på at Jupyter notebook-ene vises riktig og fungerer som forventet, må du ha følgende Python-moduler installert lokalt:
 
 - ipympl
 - ipython
@@ -24,7 +21,7 @@ Python environment:
 - tqdm
 - webgui-jupyter-widgets
 
-If you also want to generate the Jupyter book itself, you need to have the following Python modules installed in addition to the ones mentioned above:
+Hvis du vil lage Jupyter book-en selv, må du ha følgende Python-moduler installert lokalt i tillegg til de som er nevnt over:
 
 - jupyter-book
 - jupytext
