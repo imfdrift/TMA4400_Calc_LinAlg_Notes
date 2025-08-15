@@ -4,8 +4,5 @@
 format: jb-book
 root: README
 chapters:
-- file: chapter_fixedpoint/NewtonsMethod
-- file: chapter_integration/SimpleQuadrature
-  sections:
-  - file: chapter_integration/CompositeQuadrature
+- file: chapter_algebrafund
 - file: references
