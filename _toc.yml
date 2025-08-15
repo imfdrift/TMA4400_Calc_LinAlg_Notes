@@ -4,5 +4,5 @@
 format: jb-book
 root: README
 chapters:
-- file: chapter_algebrafund
+- file: chapter_algebrafund/AlgebraensFundamentalteorem
 - file: references
