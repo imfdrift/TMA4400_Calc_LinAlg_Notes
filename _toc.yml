@@ -5,4 +5,5 @@ format: jb-book
 root: README
 chapters:
 - file: chapter_algebrafund/AlgebraensFundamentalteorem
+- file: chapter_GaussElimi/Gauss-eliminasjon
 - file: references
