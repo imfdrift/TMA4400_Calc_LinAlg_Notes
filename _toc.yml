@@ -8,4 +8,5 @@ chapters:
 - file: chapter_GaussElimi/Gauss-eliminasjon
 - file: chapter_LU-fakGauss/LU-faktorisering_og_Gauss-eliminasjon
 - file: chapter_invers/Inversmatriser
+- file: chapter_Fikspunkt/Fikspunktiterasjoner
 
