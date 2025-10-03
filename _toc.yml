@@ -10,5 +10,7 @@ chapters:
 - file: chapter_invers/Inversmatriser
 - file: chapter_Fikspunkt/Fikspunktiterasjoner
 - file: chapter_Jacobi/Jacobi-metoden
+- file: chapter_Taylor/Taylors_teorem
+- file: chapter_NumDev/Numerisk_derivasjon
 
 
