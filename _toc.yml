@@ -12,5 +12,7 @@ chapters:
 - file: chapter_Jacobi/Jacobi-metoden
 - file: chapter_Taylor/Taylors_teorem
 - file: chapter_NumDev/Numerisk_derivasjon
+- file: chapter_FiksKonv/Fikspunktiterasjon_og_konvergensorden
+- file: chapter_Newton/Newtons_metode
 
 
