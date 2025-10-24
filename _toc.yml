@@ -14,5 +14,7 @@ chapters:
 - file: chapter_NumDev/Numerisk_derivasjon
 - file: chapter_FiksKonv/Fikspunktiterasjon_og_konvergensorden
 - file: chapter_Newton/Newtons_metode
+- file: chapter_Euler/Eulers_metode
+
 
 
