@@ -15,6 +15,7 @@ chapters:
 - file: chapter_FiksKonv/Fikspunktiterasjon_og_konvergensorden
 - file: chapter_Newton/Newtons_metode
 - file: chapter_Euler/Eulers_metode
+- file: chapter_NumInt/Numerisk_integrasjon
 
 
 
