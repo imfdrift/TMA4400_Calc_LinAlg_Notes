@@ -10,6 +10,10 @@ on:
     # paths:
     # - some-subfolder/**
 
+name: CI
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
@@ -43,7 +47,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build my-file.md
+        jupyter-book build .
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
