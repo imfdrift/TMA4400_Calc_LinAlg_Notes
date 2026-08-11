@@ -48,6 +48,13 @@ jobs:
       run: |
         jupyter-book build .
 
+    # Bekreft at _build/html finnes (debug‑steg)
+    - name: List built files (debug)
+      if: always()
+      run: |
+        echo "===== _build/ innhold ====="
+        ls -R _build | cat
+
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
