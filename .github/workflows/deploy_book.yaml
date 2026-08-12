@@ -31,7 +31,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install --upgrade "jupyter-book>=0.15"
+        pip install --upgrade "jupyter-book==0.13.2"
         pip install -r requirements.txt
 
 
