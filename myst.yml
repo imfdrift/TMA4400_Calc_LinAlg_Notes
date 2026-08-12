@@ -1,1 +1,8 @@
+project:
+  title: TMA4400 - Matematikk 1 Kalkulus og lineær algebra
+  author: Yael Fleischmann, Markus Arthur Köbis, Jørgen Endal Letnes, Morten Andreas Nome, Gereon Quick, Frode Rønning 
 
+table-of-contents:
+  format: myst
+  root: TMA4400
+  
